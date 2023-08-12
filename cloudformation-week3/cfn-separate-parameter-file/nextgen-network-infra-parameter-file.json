@@ -1,0 +1,54 @@
+[
+    {
+        "ParameterKey": "NextGenProdVPCCidrBlock",
+        "ParameterValue": "100.0.0.0/16"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCWebserverAZ1",
+        "ParameterValue": "us-east-1a"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCWebserverCidrBlock1",
+        "ParameterValue": "100.0.5.0/24"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCWebserverAZ2",
+        "ParameterValue": "us-east-1b"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCWebserverCidrBlock2",
+        "ParameterValue": "100.0.10.0/24"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCAppserverSubnetAZ1",
+        "ParameterValue": "us-east-1a"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCAppserverCidrBlock1",
+        "ParameterValue": "100.0.15.0/24"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCAppserverSubnetAZ2",
+        "ParameterValue": "us-east-1b"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCAppserverCidrBlock2",
+        "ParameterValue": "100.0.20.0/24"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCDBserverSubnetAZ1",
+        "ParameterValue": "us-east-1a"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCDBserverCidrBlock1",
+        "ParameterValue": "100.0.25.0/24"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCDBserverSubnetAZ2",
+        "ParameterValue": "us-east-1b"
+    },
+    {
+        "ParameterKey": "NextGenProdVPCDBserverCidrBlock2",
+        "ParameterValue": "100.0.30.0/24"
+    }
+]
